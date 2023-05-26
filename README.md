@@ -10,3 +10,4 @@
 | jsonparser (json解析)    | <https://webutil.pro/jsonparser/>  | Web JSON Parser (网页版JSON解析)                  |
 | lookscanned (让pdf变扫描版) | <https://webutil.pro/lookscanned/> | Make your PDFs look scanned (让你的PDF看起来像扫描一样) |
 | painter (画图)           | <https://painter.webutil.pro>      | A very good whiteboard (一个超棒的画板)             |
+| resume-builder (在线编辑简历)           | <https://webutil.pro/resume-builder>      | A resume builder (在线编辑简历)             |
